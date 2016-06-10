@@ -1,5 +1,5 @@
 # UWP Uploader
-#### Uses C# and Universal Windows Platform
+#### Using C# and Universal Windows Platform
 
 ### This sample shows you how can we upload files into [UploadBoy Upload Center](http://uploadboy.com) via HttpWebRequest.
 
